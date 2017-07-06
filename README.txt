@@ -1,4 +1,4 @@
-This folder contains:
+Folder contains:
 HTML
 CSS
 JavaScript
