@@ -1,1 +1,4 @@
-This folder contains HTML, CSS and JavaScript.
+This folder contains:
+HTML
+CSS
+JavaScript
